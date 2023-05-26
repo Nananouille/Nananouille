@@ -4,6 +4,9 @@ Bonjour et bienvenue à Nannouille Musique ! Nous sommes un collectif de musicie
 
  
  <img src="https://github.com/Nananouille/Nananouille/assets/8178673/12d64b98-c117-4ef8-9181-92476f9ebab7" alt="Alt text" title="Optional title">
+ 
+ 
+ \\\\\\\\\\\\\\\\\\\\\\\
 ## Development
 
 Apprend et test le liveCode avec nous ! Le liveCode Music est un outil puissant pour les artistes et les développeurs qui cherchent à intégrer la musique et l'audio interactif dans leurs projets. Les utilisateurs peuvent utiliser une grande variété de sources sonores, y compris des échantillons, des synthétiseurs virtuels, des entrées microphoniques et des instruments MIDI.
