@@ -2,9 +2,8 @@
 
 Bonjour et bienvenue à Nannouille Musique ! Nous sommes un collectif de musiciens basé à Nantes, spécialisé dans les musiques électroniques créées en direct avec des codes. Nous sommes ravis de présenter notre projet pour kluster. Notre collectif est composé de musiciens et de développeurs qui utilisent des logiciels de programmation pour créer des compositions en direct. Nous aimons explorer les nouvelles sonorités et les nouvelles formes d'expression musicale qui peuvent être créées en utilisant des codes. Nous proposons des performances live uniques qui combinent la musique électronique avec des projections vidéo générées par ordinateur. Nous aimons jouer avec les interactions entre la musique et les images pour créer des expériences immersives pour le public. Notre set sera composé de compositions originales, avec des rythmes entraînants et des mélodies hypnotiques.
 
-PSD credit: <https://dribbble.com/themecurve>
-
-<img src=![image](https://github.com/Nananouille/Nananouille/assets/8178673/12d64b98-c117-4ef8-9181-92476f9ebab7)" alt="foxdot">
+ 
+ [image](https://github.com/Nananouille/Nananouille/assets/8178673/12d64b98-c117-4ef8-9181-92476f9ebab7)"  
  
 ## Development
 
@@ -12,7 +11,7 @@ Apprend et test le liveCode avec nous ! Le liveCode Music est un outil puissant 
 
 
 
-##Livre de cuisine
+##LIVRE de CUISINE
 
 Ce livre de cuisine propose une approche unique pour créer de la musique en temps réel en utilisant le live code. Avec des recettes claires et détaillées, les musiciens pourront apprendre à coder leur propre musique et créer des performances originales en direct. Ce livre comprend également des conseils pratiques pour l'utilisation d'outils de production musicale et des exemples de projets à personnaliser pour créer une musique live unique et captivante.
 
