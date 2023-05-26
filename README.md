@@ -1,34 +1,19 @@
 # Brandi - OnePage Bootstrap Business Template
 
-Looking for something unique for your next business and corporate website? Meet Brandi, the free responsive one-page bootstrap business template. Twitter Bootstrap v3.x framework powers the template. No extra code, no additional feature which provides end-users a dominant power to build any kind of awesome website having ease in mind. The bootstrap-based one-page HTML template is lightweight and fast loading perfectly suited for the site whether they have high or low traffic. Business, corporate, portfolio, agency, blog, app showcase, photography, resume, creative agency, portfolio showcase, and creative platform are the perfect place to suit the niches of this HTML theme.
+Bonjour et bienvenue à Nannouille Musique ! Nous sommes un collectif de musiciens basé à Nantes, spécialisé dans les musiques électroniques créées en direct avec des codes. Nous sommes ravis de présenter notre projet pour kluster. Notre collectif est composé de musiciens et de développeurs qui utilisent des logiciels de programmation pour créer des compositions en direct. Nous aimons explorer les nouvelles sonorités et les nouvelles formes d'expression musicale qui peuvent être créées en utilisant des codes. Nous proposons des performances live uniques qui combinent la musique électronique avec des projections vidéo générées par ordinateur. Nous aimons jouer avec les interactions entre la musique et les images pour créer des expériences immersives pour le public. Notre set sera composé de compositions originales, avec des rythmes entraînants et des mélodies hypnotiques.
 
 PSD credit: <https://dribbble.com/themecurve>
 
-<img src="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" alt="Free bootstrap business template by themefisher">
+<img src=![image](https://github.com/Nananouille/Nananouille/assets/8178673/12d64b98-c117-4ef8-9181-92476f9ebab7)" alt="foxdot">
+ 
+## Development
 
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you updated with this template.
+Apprend et test le liveCode avec nous ! Le liveCode Music est un outil puissant pour les artistes et les développeurs qui cherchent à intégrer la musique et l'audio interactif dans leurs projets. Les utilisateurs peuvent utiliser une grande variété de sources sonores, y compris des échantillons, des synthétiseurs virtuels, des entrées microphoniques et des instruments MIDI.
 
-## Demo & Download
 
-A fully functional demo is available at <a href="http://demo.themefisher.com/brandi">Demo</a>
-You can visit our website to download this theme <a href="https://themefisher.com/products/brandi/">Download Now</a>
 
-<!-- reporting issue -->
-## Reporting Issues
+##Livre de cuisine
 
-We use GitHub Issues as the official bug tracker for the blue-pro Template. Please Search [existing issues](https://github.com/themefisher/blue-pro/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/blue-pro/issues).
+Ce livre de cuisine propose une approche unique pour créer de la musique en temps réel en utilisant le live code. Avec des recettes claires et détaillées, les musiciens pourront apprendre à coder leur propre musique et créer des performances originales en direct. Ce livre comprend également des conseils pratiques pour l'utilisation d'outils de production musicale et des exemples de projets à personnaliser pour créer une musique live unique et captivante.
 
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
-
-<!-- licence -->
-## License
-
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/blue-pro/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+ 
