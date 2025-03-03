@@ -65,6 +65,39 @@
             margin-top: 20px;
             font-size: 1rem;
         }
+
+        /* Parallax Section Container */
+        .parallax-wrapper {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Parallax Effect */
+        .parallax {
+            background-image: url('https://via.placeholder.com/1600x600'); /* Remplacer par l'image de fond */
+            height: 500px; /* Hauteur augmentée pour mieux voir l'effet */
+            background-attachment: fixed;
+            background-size: cover;
+            text-align: center;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+        }
+        .parallax-content {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            font-size: 1.2rem;
+        }
+        .parallax-content h4 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        .parallax-content p {
+            margin: 5px 0;
+        }
     </style>
 </head>
 <body>
@@ -91,10 +124,10 @@
         </div>
         
         <div class="section">
-            <h3>📖 Activités</h3>
-            <p>atelier du vent rennes </p>
-            <a href="https://www.lesateliersduvent.org/wp-content/uploads/2024/02/rapport-activite-2023-">🔗 Lire</a>
-        </div>
+              <h3>🎤 Festival Hip Hop Session</h3>
+            <p>Découvrez notre participation à ce grand festival !</p>
+            <a href="https://www.hipopsession.com/programmation/stony-stone-magnar-phlp-yecke-dj-feaith-sortie-de-residence/">🔗 En savoir plus</a>
+     </div>
         
         <div class="section">
             <h3>📜 Atelier Origamidi</h3>
@@ -105,6 +138,30 @@
         <div class="links">
             <a href="https://www.instagram.com/nananouillerecords/">📷 Instagram</a>
             <a href="mailto:irvin.zoure@gmail.com">📧 Contact</a>
+        </div>
+        
+        <!-- Parallax Section Wrapper -->
+        <div class="parallax-wrapper">
+            <div class="parallax">
+                <div class="parallax-content">
+                    <h4>Événements à venir :</h4>
+                    <p><strong>Fablab Nantais</strong></p>
+                    <p>Concert 2023-2024</p>
+                    <p><strong>Stereolux Soirée Open Mic</strong> - 30 Mars 2023 - NANTES</p>
+                    <p><strong>Blockhaus Concert Live</strong> - 12 Mai 2023 - NANTES</p>
+                    <p><strong>Atelier du Vent Vapor Wave</strong> - 13 Juillet 2023 - RENNES</p>
+                    <p><strong>Cookie Collective Its More Fun 1</strong> - 11 Août 2023 - PARIS</p>
+                    <p><strong>Inauguration Hyperlien</strong> - 21 Septembre 2023 - NANTES</p>
+                    <p><strong>La Cure Halloween Party</strong> - 21 Octobre 2023 - NANTES</p>
+                    <p><strong>Chapeau Rouge Festival Babar</strong> - 25 Novembre 2023 - NANTES</p>
+                    <p><strong>Jet FM Solstice Nuit de la Radio</strong> - 21 Décembre 2023 - NANTES</p>
+                    <p><strong>OHM Town Séance d'Écoute Sonore</strong> - 15 Février 2024 - NANTES</p>
+                    <p><strong>Cookie Collective Its More Fun 2</strong> - 25 Août 2023 - PARIS</p>
+                    <p><strong>Le Nouveau Théâtre Séance d'Écoute</strong> - 18 Avril 2024 - NANTES</p>
+                    <p><strong>Soirée d'Écoute Liée au Mascunilité</strong></p>
+                    <p><strong>Digital Week Nantes</strong> - 24 Septembre 2024 - NANTES</p>
+                </div>
+            </div>
         </div>
         
         <div class="footer">© 2025 Nananouille Records. Tous droits réservés.</div>
